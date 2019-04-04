@@ -1,0 +1,49 @@
+body, html{
+    font-family: 'Arial';
+    
+    padding-bottom: 40px;
+    background-color: black;
+}
+h1, h2,h3 ,h4, p{
+    color: white;
+}
+#header{
+    padding: 40px;
+    text-align: center;
+    background-color: darkslateblue;
+}
+
+#about{
+   margin-bottom: 400px;
+   
+}
+
+#fav{
+    margin-bottom: 200px;
+}
+
+
+.table-hover, td{
+    color: white;
+    padding: 10px;
+    
+}
+.bg{
+    background-image: url(https://elevateyourexperiences.com/wp-content/uploads/2018/02/elevate-website-background.jpg);
+    
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.tb{
+    margin: auto;
+    width: 50%;
+    border-color: black !important;
+
+}
+label{
+    color: white;
+}
+#feedback{
+    margin-bottom: 100px;
+}
+
