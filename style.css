@@ -29,9 +29,10 @@ h1, h2,h3 ,h4, p{
     
 }
 .bg{
-    background-image: url(background.jpg);
+    background-image: url(4.png);
     
-    background-repeat: no-repeat;
+    
+    background-repeat: repeat;
     background-color: black;
 }
 .tb{
@@ -45,5 +46,16 @@ label{
 }
 #feedback{
     margin-bottom: 100px;
+}
+.footer{
+    background-color: grey;
+    position: absolute;
+    height: 80px;
+    width: 100%;
+    
+}
+.footer a, .footer span {
+    font-size: 20px;
+    color: white;
 }
 
